@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Vic
+# 👋 Hi there, I’m Vic
 
 🎓 I’m a **Development Student** at [Open Window Institute](https://www.openwindow.co.za/), South Africa — passionate about crafting interactive and efficient digital experiences.  
 💻 My focus is on **Full-Stack Web Development**, especially **MERN** (MongoDB, Express, React, Node.js) and **SQL** systems.  
@@ -32,7 +32,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
