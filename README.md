@@ -10,7 +10,7 @@
 - 💡 **Front-End Development:** Building responsive, modern UIs with **React**  
 - ⚙️ **Back-End Development:** Creating RESTful APIs and authentication systems with **Node.js & Express**  
 - 🗄️ **Database Management:** Designing and managing data with **MongoDB** and **MySQL**  
-- 🚀 **Deployment:** Hosting on **Vercel**, **Render**, and **Heroku**  
+- 🚀 **Deployment:** Hosting on **Vercel**, **Render**, **Heroku**, **AWS** and **Google Cloud**  
 - 🧩 **Version Control:** Git & GitHub workflows for smooth collaboration
 
 ---
@@ -51,12 +51,9 @@
 ---
 
 ### 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-du-preez-47475a321)
 ---
 
 ### 🧩 GitHub Stats
-![Vic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Vic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=victordupreez0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordupreez0&layout=compact&theme=tokyonight)
