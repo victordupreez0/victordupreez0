@@ -95,10 +95,9 @@
 ### </> Top Repos
 
 <a href="https://github.com/victordupreez0/Summative_Studentgigs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victordupreez0&repo=REPO_NAME_1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victordupreez0&repo=Summative_Studentgigs&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/victordupreez0/Code_Blooded_DV200_S1SA2_Ecommerce_App
-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victordupreez0&repo=REPO_NAME_2&theme=tokyonight" />
+<a href="https://github.com/victordupreez0/Code_Blooded_DV200_S1SA2_Ecommerce_App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victordupreez0&repo=Code_Blooded_DV200_S1SA2_Ecommerce_App&theme=tokyonight" />
 </a>
