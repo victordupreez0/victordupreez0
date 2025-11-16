@@ -64,22 +64,35 @@
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/victor-du-preez-47475a321" target="_blank" style="text-decoration:none;">
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/victor-du-preez-47475a321" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>  
-<span style="font-size:14px; margin-left:10px;">
-  <strong>LinkedIn:</strong>  
-  <a href="https://www.linkedin.com/in/victor-du-preez-47475a321">victor-du-preez-47475a321</a>
+</a>
+<span style="font-size:14px; margin-left:8px; vertical-align:middle;">
+  <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/victor-du-preez-47475a321" style="text-decoration:none;">victor-du-preez-47475a321</a>
 </span>
 
-<br><br>
+<br>
 
-<a href="mailto:victor.dupreez0@gmail.com" target="_blank" style="text-decoration:none;">
+<!-- Email -->
+<a href="mailto:victor.dupreez0@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>  
-<span style="font-size:14px; margin-left:10px;">
-  <strong>Email:</strong>  
-  <a href="mailto:victor.dupreez0@gmail.com">victor.dupreez0@gmail.com</a>
+</a>
+<span style="font-size:14px; margin-left:8px; vertical-align:middle;">
+  <strong>Email:</strong>
+  <a href="mailto:victor.dupreez0@gmail.com" style="text-decoration:none;">victor.dupreez0@gmail.com</a>
+</span>
+
+<br>
+
+<!-- Phone -->
+<a href="tel:+27XXXXXXXXX">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
+<span style="font-size:14px; margin-left:8px; vertical-align:middle;">
+  <strong>Phone:</strong>
+  <a href="tel:+27XXXXXXXXX" style="text-decoration:none;">+27&nbsp;XX&nbsp;XXX&nbsp;XXXX</a>
 </span>
 
 </div>
