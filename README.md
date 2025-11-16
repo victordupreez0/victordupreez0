@@ -86,17 +86,19 @@
 
 <br>
 
-<!-- Phone -->
-<a href="tel:+27XXXXXXXXX">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-</a>
-<span style="font-size:14px; margin-left:8px; vertical-align:middle;">
-  <strong>Phone:</strong>
-  <a href="tel:+27XXXXXXXXX" style="text-decoration:none;">+27&nbsp;XX&nbsp;XXX&nbsp;XXXX</a>
-</span>
-
 </div>
 
 ### </> GitHub Stats
 ![Vic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=victordupreez0&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordupreez0&layout=compact&theme=tokyonight)
+
+### </> Top Repos
+
+<a href="https://github.com/victordupreez0/Summative_Studentgigs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victordupreez0&repo=REPO_NAME_1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/victordupreez0/Code_Blooded_DV200_S1SA2_Ecommerce_App
+">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victordupreez0&repo=REPO_NAME_2&theme=tokyonight" />
+</a>
