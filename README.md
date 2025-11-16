@@ -1,58 +1,70 @@
 # 👋 Hi there, I’m Vic
 
-🎓 I’m a **Development Student** at [Open Window Institute](https://www.openwindow.co.za/), South Africa — passionate about crafting interactive and efficient digital experiences.  
-💻 My focus is on **Full-Stack Web Development**, especially **MERN** (MongoDB, Express, React, Node.js) and **SQL** systems.  
-⚙️ I love solving real-world problems with clean architecture, meaningful design, and scalable code.
+ I’m a **Development Student** at [Open Window Institute](https://www.openwindow.co.za/), South Africa — passionate about crafting interactive and efficient digital experiences.  
+ My focus is on **Full-Stack Web Development**, especially **MERN** (MongoDB, Express, React, Node.js) and **SQL** systems.  
+ I solving real-world problems with clean architecture, meaningful design, and scalable code.
 
 ---
 
-### 🧠 What I Do
-- 💡 **Front-End Development:** Building responsive, modern UIs with **React**  
-- ⚙️ **Back-End Development:** Creating RESTful APIs and authentication systems with **Node.js & Express**  
-- 🗄️ **Database Management:** Designing and managing data with **MongoDB** and **MySQL**  
-- 🚀 **Deployment:** Hosting on **Vercel**, **Render**, **Heroku**, **AWS** and **Google Cloud**  
-- 🧩 **Version Control:** Git & GitHub workflows for smooth collaboration
+### </> What I Do
+-  **Front-End Development:** Building responsive, modern UIs with **React**  
+-  **Back-End Development:** Creating RESTful APIs and authentication systems with **Node.js & Express**  
+-  **Database Management:** Designing and managing data with **MongoDB** and **MySQL**  
+-  **Deployment:** Educated for hosting on **Azure**, **Heroku**, **AWS** and **Google Cloud**  
+-  **Version Control:** Git & GitHub workflows for smooth collaboration
 
 ---
 
-### 🛠️ Tech Stack
-#### Front-End
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### </> Tech Stack
+#### Languages and Frameworks
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Back-End
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+
+#### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+#### Hosting
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![JAWS](https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
-### 📈 Current Focus
+### </> Current Focus
 - Building **personal projects** that showcase both **frontend finesse** and **backend logic**
-- Learning **Next.js** for server-side rendering and improved scalability  
 - Exploring **cloud deployment** and **CI/CD pipelines**
 
 ---
 
-### ⚡ Fun Facts
-- 🧩 I love solving logical problems and automating small workflows.  
-- 🎮 Outside coding, I’m probably gaming, designing something, or 3D printing.  
-- ✈️ Aviation and tech are my biggest obsessions.
+### </> Fun Facts
+-  Outside coding, I’m probably gaming, designing something, or 3D printing.  
+-  Aviation and tech are my biggest obsessions.
 
 ---
 
-### 📫 Let’s Connect!
+### </> Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-du-preez-47475a321)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.dupreez0@gmail.com)
 ---
 
-### 🧩 GitHub Stats
+### </> GitHub Stats
 ![Vic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=victordupreez0&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordupreez0&layout=compact&theme=tokyonight)
