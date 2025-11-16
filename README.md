@@ -61,13 +61,28 @@
 ---
 
 ### </> Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-du-preez-47475a321)
-https://www.linkedin.com/in/victor-du-preez-47475a321
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.dupreez0@gmail.com)
-victor.dupreez0@gmail.com
----
+<div align="left">
 
+<a href="https://www.linkedin.com/in/victor-du-preez-47475a321" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+<span style="font-size:14px; margin-left:10px;">
+  <strong>LinkedIn:</strong>  
+  <a href="https://www.linkedin.com/in/victor-du-preez-47475a321">victor-du-preez-47475a321</a>
+</span>
+
+<br><br>
+
+<a href="mailto:victor.dupreez0@gmail.com" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
+<span style="font-size:14px; margin-left:10px;">
+  <strong>Email:</strong>  
+  <a href="mailto:victor.dupreez0@gmail.com">victor.dupreez0@gmail.com</a>
+</span>
+
+</div>
 ### </> GitHub Stats
 ![Vic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=victordupreez0&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordupreez0&layout=compact&theme=tokyonight)
