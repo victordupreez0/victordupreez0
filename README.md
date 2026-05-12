@@ -1,103 +1,57 @@
-# 👋 Hi there, I’m Vic
-
- I’m a **Development Student** at [Open Window Institute](https://www.openwindow.co.za/), South Africa — passionate about crafting interactive and efficient digital experiences.  
- My focus is on **Full-Stack Web Development**, especially **MERN** (MongoDB, Express, React, Node.js) and **SQL** systems.  
- I solving real-world problems with clean architecture, meaningful design, and scalable code.
-
----
-
-### </> What I Do
--  **Front-End Development:** Building responsive, modern UIs with **React**  
--  **Back-End Development:** Creating RESTful APIs and authentication systems with **Node.js & Express**  
--  **Database Management:** Designing and managing data with **MongoDB** and **MySQL**  
--  **Deployment:** Educated for hosting on **Azure**, **Heroku**, **AWS** and **Google Cloud**  
--  **Version Control:** Git & GitHub workflows for smooth collaboration
-
----
-
-### </> Tech Stack
-#### Languages and Frameworks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-#### Hosting
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![JAWS](https://img.shields.io/badge/JAWS-%231962AA.svg?style=for-the-badge&logo=JAWS&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-### </> Current Focus
-- Building **personal projects** that showcase both **frontend finesse** and **backend logic**
-- Exploring **cloud deployment** and **CI/CD pipelines**
-
----
-
-### </> Fun Facts
--  Outside coding, I’m probably gaming, designing something, or 3D printing.  
--  Aviation and tech are my biggest obsessions.
-
----
-
-### </> Let’s Connect!
-
-<div align="left">
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/victor-du-preez-47475a321" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<span style="font-size:14px; margin-left:8px; vertical-align:middle;">
-  <strong>LinkedIn:</strong>
-  <a href="https://www.linkedin.com/in/victor-du-preez-47475a321" style="text-decoration:none;">victor-du-preez-47475a321</a>
-</span>
-
-<br>
-
-<!-- Email -->
-<a href="mailto:victor.dupreez0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<span style="font-size:14px; margin-left:8px; vertical-align:middle;">
-  <strong>Email:</strong>
-  <a href="mailto:victor.dupreez0@gmail.com" style="text-decoration:none;">victor.dupreez0@gmail.com</a>
-</span>
-
-<br>
-
+<div align="center">
+ 
+```
+V I C T O R   D U   P R E E Z
+```
+ 
+**Full-Stack Developer · Pretoria, ZA · Open Window University**
+ 
+[![Email](https://img.shields.io/badge/─_email-victor.dupreez0%40gmail.com-0d1117?style=flat-square&labelColor=0d1117&color=238636)](mailto:victor.dupreez0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/─_linkedin-victor--du--preez-0d1117?style=flat-square&labelColor=0d1117&color=238636)](https://www.linkedin.com/in/victor-du-preez-47475a321)
+ 
 </div>
 
-### </> GitHub Stats
-![Vic’s GitHub stats](https://github-readme-stats.vercel.app/api?username=victordupreez0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordupreez0&layout=compact&theme=tokyonight)
-
-### </> Top Repos
-
-<a href="https://github.com/victordupreez0/Summative_Studentgigs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victordupreez0&repo=Summative_Studentgigs&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/victordupreez0/Code_Blooded_DV200_S1SA2_Ecommerce_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victordupreez0&repo=Code_Blooded_DV200_S1SA2_Ecommerce_App&theme=tokyonight" />
-</a>
+ 
+### `// who`
+ 
+Final-year Software Development student building real things — not just coursework.
+Full-stack web apps, embedded systems, autonomous robots, live client sites.
+I care about clean architecture, meaningful UIs, and code that actually ships.
+ 
+---
+ 
+### `// stack`
+ 
+```
+frontend   →   React  TypeScript  Tailwind  Vite  HTML5  CSS3 Electron
+backend    →   Node.js  Express  C#  .NET Core  RESTful APIs
+database   →   PostgreSQL  MongoDB  SQL Server
+cloud      →   AWS  Google Cloud  Azure  Docker
+hardware   →   ESP32  Arduino  Raspberry Pi  C++  Fusion 360
+tools      →   Git  GitHub VS Code Figma Antigravity Claude Code 
+```
+ 
+---
+ 
+### `// projects`
+ 
+| project | what it is | stack |
+|---|---|---|
+| **learn-online** | University-scale LMS — DB architecture, ERD design, backend logic, course + assessment systems | Node.js · PostgreSQL · REST |
+| **studentgigs** | Solo-built student job marketplace — auth, listings, profiles, search, full-stack | React · Node.js · MongoDB |
+| **serli massyn** | Live production client site → [serlimassyn.co.za](https://serlimassyn.co.za) | React · Custom deployment |
+| **atlas** | Local AI agent — persistent memory, tool use, custom dashboard UI | Node.js · Claude LLM · |
+| **cars4mars** | Continental rover competition — Top 10 finish | C++ · ESP32 · Fusion 360 |
+ 
+---
+ 
+### `// now`
+ 
+```
+● building    production client work
+● studying    B.Creative Technologies — Software Development
+● exploring   CI/CD · cloud deployment · system design
+● open to     serious dev roles where I can build and grow
+```
+ 
+</div>
