@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Victor du Preez, full-stack developer in Pretoria, South Africa" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header.svg" width="100%" alt="Victor du Preez, creative technologist and full-stack developer in Pretoria, South Africa" />
+</picture>
 
 <p align="center">
   <a href="https://victordupreez.netlify.app"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>&nbsp;
