@@ -1,64 +1,35 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Victor du Preez, full-stack developer in Pretoria, South Africa" />
+</p>
 
-<img src="https://github.com/victordupreez0.png" width="120" alt="Victor du Preez" />
+<p align="center">
+  <a href="https://victordupreez.netlify.app"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/victor-du-preez-47475a321"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:victor.dupreez0@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email" /></a>
+</p>
 
-```
-V I C T O R   D U   P R E E Z
-```
+<img src="assets/intro.png" width="100%" alt="I build software from the database to the screen. Final-year Creative Technologies student at Open Window in Pretoria and co-founder of DuckStack. Right now: building client work at DuckStack, finishing my degree, a cyber security certification next in 2027, open to developer roles in Gauteng or remote." />
 
-**Full-stack developer · Pretoria, South Africa**
+<img src="assets/numbers.png" width="100%" alt="In numbers: 30,000 people used Madadeni Mall; 658 of my commits across the three DV300 repos; 496 automated tests; 3 live products; 21 REST controllers in Koru's API; 2x Best Creativity at Cars4Mars." />
 
-[Portfolio](https://victordupreez.netlify.app) · [LinkedIn](https://www.linkedin.com/in/victor-du-preez-47475a321) · [Email](mailto:victor.dupreez0@gmail.com)
+<img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, C#/.NET, Python, C++, SQL, HTML5, CSS; React, React Native, Expo, Electron, Angular, Vue, Tailwind, Vite; ASP.NET Core, Node.js, Express, FastAPI, Docker; PostgreSQL, Supabase, Firebase, MongoDB, MySQL, SQL Server; Cloudflare, Vercel, Netlify, Google Cloud, AWS, Azure; Jest, pytest, xUnit, GitHub Actions; Raspberry Pi, ESP32, Arduino, Fusion 360, 3D printing; Git, GitHub, VS Code, Figma, Postman, Claude Code." />
 
-</div>
+## DV300 portfolio: my main three
 
-### `// who`
+<a href="https://github.com/wrapperik/koru"><img src="assets/koru.png" width="100%" alt="Koru: a desktop learning platform for students, lecturers and admins. Team project, semester 1." /></a>
 
-I'm in my final year of Creative Technologies at Open Window Institute, and I build complete systems,
-from the database to the interface. Through DuckStack, the agency I co-founded, I ship live software
-for paying clients. I also build robots and my own local AI tools.
+<a href="https://github.com/victordupreez0/Trail"><img src="assets/trail.png" width="100%" alt="Trail: a calm mobile hiking companion with a live party map. Solo, semester 2." /></a>
 
-### `// focus`
+<a href="https://github.com/victordupreez0/On-Hold"><img src="assets/onhold.png" width="100%" alt="On Hold: an AI scam checker for older South Africans. Solo, semester 2." /></a>
 
-```
-backend     REST APIs, auth and relational data models in .NET and Node
-mobile      React Native apps built for people who aren't confident with tech
-shipping    brief to live product for paying clients, then hosting and support
-```
+<p align="center"><b>Open the repos:</b> <a href="https://github.com/wrapperik/koru">Koru</a> · <a href="https://github.com/victordupreez0/Trail">Trail</a> · <a href="https://github.com/victordupreez0/On-Hold">On Hold</a> · <a href="https://onhold.pages.dev">try On Hold live</a></p>
 
-### `// dv300 portfolio`
+## Other work
 
-My three main projects from final-year Interactive Development. Each repo has setup steps and the full process documentation.
+- **[Madadeni Mall](https://jobsmadadenimall.co.za)** · live job portal for a DuckStack client, used by **30,000 people**. Locals apply from their phones in English or isiZulu; the shops shortlist and hire from an admin console.
+- **Cars4Mars** · African rover challenge with team Techne-Cality. Best Creativity in 2025 and 2026, Top 10 of 100+ teams in 2025.
+- **[StudentGigs](https://github.com/victordupreez0/Summative_StudentGigs)** · student job marketplace I built solo, from auth to live messaging.
+- **[Serli Massyn](https://serlimassyn.co.za)** · live website for a psychometrist's practice.
+- **Atlas** · my local AI assistant with persistent memory that runs my calendar, inbox and tasks.
 
-| | project | type | what it is | stack |
-|---|---|---|---|---|
-| 1 | **[Koru](https://github.com/wrapperik/koru)** | Desktop app · team · semester 1 | University-scale LMS for students, lecturers and admins. I led the backend and database design: the API controllers, data models, auth and migrations. | ASP.NET Core · PostgreSQL · React · Electron |
-| 2 | **[Trail](https://github.com/victordupreez0/Trail)** | Mobile app · semester 2 | Hiking companion built to lower stress, not add to it. Gesture-first navigation and a live party map, so nobody has to wonder whether you're okay. | React Native · Expo · TypeScript · Firebase |
-| 3 | **[On Hold](https://github.com/victordupreez0/On-Hold)** · [try it](https://onhold.pages.dev) | Mobile app · AI · semester 2 | AI scam checker for older South Africans. Paste, screenshot or speak a message and get Stop, Wait or Looks okay, with consent-based alerts to family. | React Native · Expo · FastAPI · Supabase · Claude · Whisper |
-
-### `// other work`
-
-| project | what it is | stack |
-|---|---|---|
-| **[Madadeni Mall](https://jobsmadadenimall.co.za)** | Live job portal for a client, used by 30,000 people. Locals register from their phones in English or isiZulu; the mall and its shops shortlist and hire from an admin console. | React · TypeScript · Supabase · Cloudflare Workers |
-| **Cars4Mars** | African rover challenge with team Techne-Cality. Best Creativity in 2025 and 2026, Top 10 of 100+ teams in 2025. | Python · Raspberry Pi · ESP32 · C++ |
-| **[StudentGigs](https://github.com/victordupreez0/Summative_StudentGigs)** | Student job marketplace I built solo, from auth to live messaging. | React · Node.js · MongoDB |
-| **[Serli Massyn](https://serlimassyn.co.za)** | Live website for a psychometrist's practice. | React |
-| **Atlas** | Local AI assistant with persistent memory that runs my calendar, inbox and tasks. | Node.js · Electron · LLM APIs |
-
-### `// stack`
-
-**languages**&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-
-**frontend**&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=
+<p align="center"><sub>Open to developer roles and internships · Gauteng or remote · <a href="mailto:victor.dupreez0@gmail.com">victor.dupreez0@gmail.com</a></sub></p>
