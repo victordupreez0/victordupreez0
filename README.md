@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
-  <img src="assets/hero-dark.svg" width="100%" alt="Victor du Preez, creative technologist and full-stack developer in Pretoria, South Africa" />
-</picture>
+<img src="assets/hero.svg" width="100%" alt="Victor du Preez, creative technologist and full-stack developer in Pretoria, South Africa" />
 
 <p align="center">
   <a href="https://victordupreez.netlify.app"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>&nbsp;
@@ -20,7 +16,7 @@
 
 <a href="https://github.com/wrapperik/koru"><img src="assets/koru.png" width="100%" alt="Koru: a desktop learning platform for students, lecturers and admins. Team project, semester 1." /></a>
 
-<a href="https://github.com/victordupreez0/Trail"><img src="assets/trail.png" width="100%" alt="Trail: a calm mobile hiking companion with a live party map. Solo, semester 2." /></a>
+<a href="https://github.com/victordupreez0/Trail"><img src="assets/trail-card.png" width="100%" alt="Trail: a calm mobile hiking companion with a live party map. Solo, semester 2." /></a>
 
 <a href="https://github.com/victordupreez0/On-Hold"><img src="assets/onhold.png" width="100%" alt="On Hold: an AI scam checker for older South Africans. Solo, semester 2." /></a>
 
