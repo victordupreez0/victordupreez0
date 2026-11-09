@@ -1,5 +1,7 @@
 <picture>
-  <img src="assets/header.svg" width="100%" alt="Victor du Preez, creative technologist and full-stack developer in Pretoria, South Africa" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img src="assets/hero-dark.svg" width="100%" alt="Victor du Preez, creative technologist and full-stack developer in Pretoria, South Africa" />
 </picture>
 
 <p align="center">
